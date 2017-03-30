@@ -1,1 +1,1 @@
-# wyrd.github.io
+Initial repo for Wyrd fun Art blog
