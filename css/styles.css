@@ -283,21 +283,23 @@ a.tooltiplink {
 /* custom css */
 
 .navbar{
-	background-color: #00ccbe;
+	/*background-color: #00ccbe;*/
 	/*background-color: indigo;*/
-  height: 12vh;
+	background-color: #fff;
+  	height: 12vh;
 }
 
 .title{
-	color: #fff;
+	color: #00ccbe;
 	font-size: 4rem;
 	font-family: 'Vollkorn', serif !important;
 }
 
 .nav-link{
-	color: #fff!important;
+	color: #00ccbe!important;
 	font-size: 1.5rem;
-  text-transform: capitalize;
+	font-family: 'Rubik', helvetica, sans-serif;
+  	text-transform: lowercase;
 }
 
 .post-image{
