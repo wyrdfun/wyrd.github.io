@@ -283,14 +283,15 @@ a.tooltiplink {
 /* custom css */
 
 .navbar{
-	background-color: #00ccbe;
+	// background-color: #00ccbe;
+	background-color: indigo;
 	height: 12vh;
 }
 
 .title{
 	color: #fff;
 	font-size: 4rem;
-	font-family: 'Rubik', helvetica, sans-serif;
+	font-family: 'Vollkorn', helvetica, sans-serif;
 }
 
 .nav-link{
